@@ -8,6 +8,7 @@ Now that you have been assigned a team you must do the following:
 
 ## Team members
 
+- Tuan Nguyen TuanNguyen467@u.boisestate.edu
 - Bridgette Milgie bridgettemilgie@u.boisestate.edu
 - Samantha Maxey SamanthaMaxey299@u.boisestate.edu
 - Jane Doe janedoe@u.boisestate.edu (Sponsor liaison)
