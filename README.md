@@ -31,3 +31,4 @@ This repo contains all the course materials for CS481 - Senior Design.
 | 14   | Team collaboration            | [course-evals](labs/evals)              | **before evals end**    |
 | 15   | Demo 2                        | [demo-2](labs/demo-2)                   | **Tuesday in class**    |
 | 16   | Senior Showcase               | [handoff](labs/handoff)                 | **Tuesday in class**    |
+
