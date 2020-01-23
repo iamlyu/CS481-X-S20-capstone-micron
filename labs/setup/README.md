@@ -12,6 +12,7 @@ Now that you have been assigned a team you must do the following:
 - Bridgette Milgie bridgettemilgie@u.boisestate.edu
 - Samantha Maxey SamanthaMaxey299@u.boisestate.edu
 - Moteeb Nain MoteebNain@u.boisestate.edu
+- Luther Yu LutherYu@u.boisestate.edu
 - Jane Doe janedoe@u.boisestate.edu (Sponsor liaison)
 
 ## Method of communication
