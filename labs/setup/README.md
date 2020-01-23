@@ -15,7 +15,7 @@ Now that you have been assigned a team you must do the following:
 
 ## Method of communication
 
-Join our slack channel @ [example](http://example.com), email, smoke signals etc.
+Join our slack channel @ https://app.slack.com/client/TE4NH8Y74/CT1KGDDG8
 
 ## Submission
 
