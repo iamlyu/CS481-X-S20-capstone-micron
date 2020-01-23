@@ -15,7 +15,7 @@ Now that you have been assigned a team you must do the following:
 
 ## Method of communication
 
-Join our slack channel @ https://app.slack.com/client/TE4NH8Y74/CT1KGDDG8
+Join our slack channel @ https://app.slack.com/client/TT1KT7SF2/CT1KT8U9E : seniordesignmicron.slack.com
 
 ## Submission
 
