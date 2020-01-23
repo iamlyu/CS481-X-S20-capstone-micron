@@ -13,7 +13,7 @@ This repo contains all the course materials for CS481 - Senior Design.
 
 **NOTE:** All labs are due at midnight on the date specified.
 
-| Week |            Lecture            |                  Labs                   | Lab/Assignment Due date |
+| Week |            Lecture            |                  Labs                   |         Milestone       |
 | ---- | ----------------------------- | --------------------------------------- | ----------------------- |
 | 1    | Introduction                  |                                         |                         |
 | 2    | Setup                         | [setup](labs/setup) / team contribution | 2020-1-26               |
